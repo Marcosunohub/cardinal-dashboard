@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(page_title="Cardinal Sightings - May 2025", layout="wide")
-st.title("🟥 Cardinal Observations Dashboard")
+st.title("🐦 Cardinal Observations Dashboard")
 
 # Load data
 @st.cache_data
